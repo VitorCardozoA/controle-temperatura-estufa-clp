@@ -21,7 +21,7 @@ O sistema lê a temperatura da estufa e controla o aquecedor com lógica liga/de
 |---------|-----------|
 | `main.tex` | Relatório em LaTeX (abntex2) |
 | `main.pdf` | Relatório compilado |
-| `TRABALHO FINAL - JOSE VITOR CARDOZO AMARAL.lsc` | Projeto do LOGO!Soft Comfort |
+| `estufa.lsc` | Projeto do LOGO!Soft Comfort |
 | `estufa.tpc` | Projeto do TPW-PCLINK |
 | `clp.pdf` | Diagrama FBD (LOGO!) |
 | `IHM.png` | Tela da IHM do LOGO! |
